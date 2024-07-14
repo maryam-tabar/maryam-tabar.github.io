@@ -6,10 +6,9 @@ subtitle:
 
 The Society-Based Data Science Lab aims to
 
-
-### Current Group Member
+### Current Members
 <ul>
-  <li>Maryam Tabar, PhD (Director) </li>
+  <li>Maryam Tabar, PhD (Director)</li>
   <li>Anjan Kumar Dev (PhD Student)</li>
   <li>Aveline Lezil (PhD Student)</li>
   <li>Shadman Islam Rafi (PhD Student)</li>
@@ -17,7 +16,7 @@ The Society-Based Data Science Lab aims to
   <li>Anusha Abdulla (Undergraduate Student)</li>
 </ul>
 
-### Former Group Member
+### Alumni
 <ul>
   <li>Shruti Nitturkar (Master Student, Graduated Spring 2024)</li>
 </ul>
