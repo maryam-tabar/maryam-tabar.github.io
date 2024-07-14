@@ -4,7 +4,7 @@ title:
 subtitle:
 ---
 
-The Society-Centered Data Science Lab aims to propose innovative data-driven solutions to address grand challenges in the society (particularly social issues faced by vulnerable and disadvantaged communities), and enhance social good. Through research, the lab aims to make a positive impact on society and contribute to the advancement of knowledge in data science.
+The Society-Centered Data Science Lab aims to propose innovative data-driven solutions to address grand challenges in the society, particularly social issues faced by vulnerable and disadvantaged communities. Through research, the lab aims to help enhance social good and contribute to the advancement of knowledge in data science.
 
 ### Current Group Members
 <ul>
