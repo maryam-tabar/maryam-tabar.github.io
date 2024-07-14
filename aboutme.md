@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research Lab
+title: Society-Based Data Science Lab
 subtitle: 
 ---
 
