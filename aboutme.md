@@ -1,16 +1,21 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Research Lab
+subtitle: 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+The Society-Based Data Science lab aims to
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### Current Group Member
+<ul>
+  <li>Anjan Kumar Dev (PhD Student)</li>
+  <li>Aveline Lezil (PhD Student)</li>
+  <li>Shadman Islam Rafi (PhD Student)</li>
+  <li>Gabriela Saenz (Master Student)</li>
+  <li>Anusha Abdulla (Undergraduate Student)</li>
+</ul>
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### Former Group Member
+<ul>
+  <li>Shruti Nitturkar (Master Student, Graduated Spring 2024)</li>
+</ul>
