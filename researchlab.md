@@ -4,7 +4,7 @@ title:
 subtitle:
 ---
 
-The Society-Based Data Science Lab aims to
+The Society-Centered Data Science Lab aims to
 
 ### Current Group Members
 <ul>
