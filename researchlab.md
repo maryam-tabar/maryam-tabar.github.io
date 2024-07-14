@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Society-Based Data Science Lab
-subtitle: Society-Based Data Science Lab
+title:
+subtitle: <b> Society-Based Data Science Lab </b>
 ---
 
 The Society-Based Data Science Lab aims to
