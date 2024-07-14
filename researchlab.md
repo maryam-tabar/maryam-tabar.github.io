@@ -7,7 +7,9 @@ subtitle:
 The Society-Based Data Science Lab aims to
 
 ### Director
-Maryam Tabar, PhD
+<ul style="list-style-type: none;">
+<li style="list-style-type: none;"> Maryam Tabar, PhD
+</ul>
 
 ### Current Students
 <ul>
