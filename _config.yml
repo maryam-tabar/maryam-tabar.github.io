@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Maryam Tabar
+# title: Maryam Tabar
 
 # Your name to show in the footer
 author: Maryam Tabar
@@ -96,7 +96,7 @@ rss-description: This website is a virtual proof that I'm awesome
 # url-pretty: "MyWebsite.com"
 
 # Add the website title to the title of every page
-title-on-all-pages: true
+# title-on-all-pages: true
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
