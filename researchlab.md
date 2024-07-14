@@ -6,7 +6,7 @@ subtitle:
 
 The Society-Based Data Science Lab aims to
 
-### Current Members
+### Current Group Members
 <ul>
   <li>Maryam Tabar, PhD (Director)</li>
   <li>Anjan Kumar Dev (PhD Student)</li>
