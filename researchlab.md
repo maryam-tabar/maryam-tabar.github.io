@@ -14,6 +14,7 @@ The <b>Society-Based Data Science Lab</b> aims to propose novel data-driven solu
   <li>Shadman Islam Rafi (PhD Student)</li>
   <li>Gabriela Saenz (Master Student)</li>
   <li>Anusha Abdulla (Undergraduate Student)</li>
+  <li>Kamyar Ehsani (Undergraduate Student)</li>
 </ul>
 
 ### Alumni
