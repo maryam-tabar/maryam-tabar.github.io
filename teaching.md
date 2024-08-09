@@ -4,6 +4,11 @@ title: Courses @ UTSA
 subtitle:
 ---
  
+### Fall 2024
+<ul>
+<li> CS 5163: Data Science (graduate) </li>
+</ul>
+
 ### Spring 2024
 <ul>
 <li> CS 5163: Data Science (graduate) </li>
