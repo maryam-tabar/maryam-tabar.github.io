@@ -9,6 +9,7 @@ The <b>Society-Based Data Science Lab</b> aims to propose novel data-driven solu
 ### Current Group Members
 <ul>
   <li>Maryam Tabar, PhD (Director)</li>
+  <li>Abdalwahab Almajed (PhD Student, co-advised with Dr. Peyman Najafirad)</li>
   <li>Anjan Kumar Dev (PhD Student)</li>
   <li>Aveline Lezil (PhD Student)</li>
   <li>Shadman Islam Rafi (PhD Student)</li>
