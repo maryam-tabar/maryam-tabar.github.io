@@ -16,10 +16,9 @@ The <b>Society-Based Data Science Lab</b> aims to propose novel data-driven solu
   <li>Gabriela Saenz (Master Student)</li>
   <li>Anusha Abdulla (Undergraduate Student)</li>
   <li>Kamyar Ehsani (Undergraduate Student)</li>
-  <li>My Ha (Undergraduate Student)</li>
 </ul>
 
-### Alumni
+### Former Members
 <ul>
   <li>Shruti Nitturkar (Master Student, Graduated Spring 2024)</li>
 </ul>
