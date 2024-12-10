@@ -12,6 +12,7 @@ The <b>Society-Based Data Science Lab</b> aims to propose novel data-driven solu
   <li>Abdalwahab Almajed (PhD Student, co-advising with Dr. Peyman Najafirad)</li>
   <li>Anjan Kumar Dev (PhD Student)</li>
   <li>Aveline Lezil (PhD Student)</li>
+  <li>Elif Ercek (PhD Student)</li>
   <li>Shadman Islam Rafi (PhD Student)</li>
   <li>Gabriela Saenz (Master Student)</li>
   <li>Anusha Abdulla (Undergraduate Student)</li>
