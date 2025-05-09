@@ -4,6 +4,11 @@ title: Courses @ UTSA
 subtitle:
 ---
 
+#### Fall 2025
+<ul>
+<li> CS 5163: Data Science (graduate) </li>
+</ul>
+
 ### Spring 2025
 <ul>
 <li> CS 7123: Research Methods (graduate) </li>
