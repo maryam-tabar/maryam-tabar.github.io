@@ -21,6 +21,6 @@ The <b>Society-Based Data Science Lab</b> aims to propose novel data-driven solu
 ### Former Members
 <ul>
   <li>Abdalwahab Almajed (PhD, co-advised with Dr. Peyman Najafirad, Graduated Spring 2025)</li>
-  <li>Gabriela Saenz (MS, Graduated Spring 2025)</li>
-  <li>Shruti Nitturkar (MS, Graduated Spring 2024)</li>
+  <li>Gabriela Saenz (Master, Graduated Spring 2025)</li>
+  <li>Shruti Nitturkar (Master, Graduated Spring 2024)</li>
 </ul>
