@@ -9,22 +9,22 @@ subtitle:
 <li> CS 5163: Data Science (graduate) </li>
 </ul>
 
-### Spring 2025
+#### Spring 2025
 <ul>
 <li> CS 7123: Research Methods (graduate) </li>
 </ul>
 
-### Fall 2024
+#### Fall 2024
 <ul>
 <li> CS 5163: Data Science (graduate) </li>
 </ul>
 
-### Spring 2024
+#### Spring 2024
 <ul>
 <li> CS 5163: Data Science (graduate) </li>
 </ul>
 
-### Fall 2023
+#### Fall 2023
 <ul>
 <li> CS 5163: Data Science (graduate) </li>
 </ul>
