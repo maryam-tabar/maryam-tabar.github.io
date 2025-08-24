@@ -16,6 +16,7 @@ The <b>Society-Based Data Science Lab</b> aims to propose novel data-driven solu
   <li>Adine Bahambana (Undergraduate Student)</li>
   <li>Anusha Abdulla (Undergraduate Student)</li>
   <li>Kamyar Ehsani (Undergraduate Student)</li>
+  <li> Shreeshkumar Lillyprabhu (Undergraduate Student)</li>
 </ul>
 
 ### Former Members
